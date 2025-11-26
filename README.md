@@ -1,7 +1,7 @@
 # uppercase-converter
 This is the simplest uppercase converter made by me. It's my second projects in GitHub. Used only using print, length, variables(used the .upper()), input and while True function. I convert it to .exe using auto-py-to-exe.
 
-It's very ease to use, jus click it and the interface would open and paste your desired text and press enter and tada! It tells how many characters it has.
+It's very ease to use, just click it and the interface would open and paste your desired text and press enter and tada! It tells how many characters it has.
 
 To download it, click on the .exe file and click view raw.
 
