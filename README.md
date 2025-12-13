@@ -11,4 +11,4 @@ After it, smartscreen defender again may stop you, but yes, my .exe file is comp
 
 If you are still nervous , I will give the images of Image1 and Image2 and click them and download and you can clearly see its safe.
 
-I am very sorry , that I forgot to add the main application to the release , it would be frusuating if application isn't available in release , now added on release section.
+I am very sorry, that I forgot to add the main application to the release, it would be frustrating if application isn't available in release, now added on release section.
